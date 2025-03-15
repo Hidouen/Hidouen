@@ -11,7 +11,7 @@ I'm a **Full Stack Developer** currently working in an apprenticeship (mainly wi
 ## 🚀 Tech Stack
 
 - **Backend:** PHP (**Symfony**), Java (**SpringBoot**), Node.js, Python
-- **Frontend:** JavaScript (**Vue.js, React**)
+- **Frontend:** JavaScript and TypeScript (**Vue.js, Angular and React**)
 - **DevOps:** Docker, Nginx, Apache, Linux
 - **Databases:** PostgreSQL, MySQL
 - **Other:** C programming, Agile methodologies
@@ -28,7 +28,7 @@ I'm a **Full Stack Developer** currently working in an apprenticeship (mainly wi
 - Utilizes **PostgreSQL** for efficient data management
 - Dockerized architecture for better scalability
 
-➡️ *Check out HitBox and feel free to contribute!*
+➡️ [*Check out HitBox and feel free to contribute!*](https://gitlab.com/ko-technique/hitbox)
 
 ### 🎮 [Daisy\_Llusion](https://github.com/Hidouen/Ada.Daisy_Llusion)
 
